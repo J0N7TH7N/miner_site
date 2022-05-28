@@ -252,7 +252,7 @@ section .title::after {
   background: #fff;
 }
 .stats .title::after {
-  content: "Cheapest On Market";
+  content: "Best On The Market";
 }
 .stats p {
   color: #fff;
